@@ -1,5 +1,5 @@
 {
-  description = "A Commodore emulator in Rust";
+  description = "A Commodore 64 emulator in Rust";
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/release-21.05";
