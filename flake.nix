@@ -2,7 +2,7 @@
   description = "A Commodore 64 emulator in Rust";
 
   inputs = {
-    nixpkgs.url = "github:nixos/nixpkgs/release-21.05";
+    nixpkgs.url = "github:nixos/nixpkgs/nixos-21.11";
     flake-compat = {
       url = "github:edolstra/flake-compat";
       flake = false;
